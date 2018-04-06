@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import ctypes
 
-subjects = ["Madarchod", "Aditya Singh"]
+subjects = ["Unidentified", "Aditya Singh"]
 
 
 
